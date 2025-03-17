@@ -6,3 +6,4 @@ Modifica el branch
 Modifica nel branch recursiveBranch
 Modifica in conflictBranch che causa conflitto
 Modifica nel branch master che causa conflitto
+Modifica su master che genererà conflitto
